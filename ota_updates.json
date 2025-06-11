@@ -1,12 +1,8 @@
 {
   "devices": {
-    "DEVICE_001": {
-      "firmwareUrl": "https://example.com/firmware/device1.bin",
-      "version": "1.1.0"
-    },
-    "DEVICE_002": {
-      "firmwareUrl": "https://example.com/firmware/device2.bin",
-      "version": "1.0.5"
+    "SarahClare": {
+      "firmwareUrl": "https://drive.google.com/uc?export=download&id=1i3LdV6LmfX7BEF1KNjMQKt0wjaCGc5pG",
+      "version": "1.0.1"
     }
   }
 }
