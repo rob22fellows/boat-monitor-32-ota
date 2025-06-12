@@ -2,7 +2,7 @@
   "devices": {
     "SarahClare": {
       "firmwareUrl": "https://flutterble-e15f3.web.app/sarahclare102.bin",
-      "version": "1.0.2"
+      "version": "1.0.3"
     }
   }
 }
