@@ -2,7 +2,7 @@
   "devices": {
     "SarahClare": {
     "firmwareUrl": "https://flutterble-e15f3.web.app/minimumota.bin"
-      "version": "1.0.1"
+      "version": "1.1.0"
     }
   }
 }
